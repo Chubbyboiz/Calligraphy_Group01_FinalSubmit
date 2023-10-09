@@ -17,7 +17,7 @@ Lương Thế Ngọc (Student1470282)
  
 =======================================
 
-SourceCode : 
+Documentation : https://github.com/Chubbyboiz/Calligraphy_Group01_FinalSubmit/tree/master/Documentation
 
 =======================================
 
