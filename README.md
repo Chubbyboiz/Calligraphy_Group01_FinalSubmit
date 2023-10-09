@@ -21,7 +21,7 @@ Documentation : https://github.com/Chubbyboiz/Calligraphy_Group01_FinalSubmit/tr
 
 =======================================
 
-Published website : 
+Published website : https://chubbyboiz.github.io/Calligraphy_Group01_FinalSubmit/
 
 =======================================
 
